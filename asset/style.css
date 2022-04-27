@@ -1,0 +1,98 @@
+.spaceClass {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .spaceClassForm {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  
+  .colorSection {
+    background-color: #56bbf1;
+  }
+  .colorSection1 {
+    color: #56bbf1;
+  }
+  .colorTextFinalSection {
+    color: #6c757d;
+  }
+  
+  .btn-info1:hover,
+  .btn-info1:active {
+    margin-top: 15px;
+    font-size: 150%;
+    border-color: #6c757d;
+    background-color: #6c757d;
+    box-shadow: 5px 10px #888888;
+  }
+
+  /* .positionTextCarousel{
+    bottom:100px;
+  } */
+
+  .colorTextCarousel {
+    color: black
+  }
+
+  .carousel-caption button{
+    color:white;
+  }
+
+  .makeAnApopointment {
+    cursor: pointer;
+    box-shadow: inset 0 0 0 0 #56bbf1;
+    -webkit-transition: ease-out 0.1s;
+    -moz-transition: ease-out 0.1s;
+    transition: ease-out 0.4s;
+  }
+  
+  .makeAnApopointment:hover {
+    box-shadow: inset 400px 0 0 0 white;
+    color:#56bbf1;
+  }
+
+  
+  .card:hover{
+    margin-top:15px;
+    font-size : 110%;
+    border-color : #56bbf1;
+    background-color: #56bbf1;
+    box-shadow: 5px 10px #56bbf1 ;
+    
+  }
+  
+  .cardContainer{
+    height: 500px;
+  }
+
+  .heightCardContainers{
+    height: 443px;
+  }
+
+  .containerDimension{
+    height:200px;
+  }
+
+  
+
+  .my-element1 {
+    animation: bounceInLeft; 
+    animation-duration: 6s; 
+  }
+
+  .my-element2 {
+    animation: bounceInLeft; 
+    animation-duration: 3s; 
+  }
+
+  .my-element3{
+    animation: bounceInRight; 
+    animation-duration: 3s; 
+  }
+
+  .my-element4{
+    animation: bounceInRight; 
+    animation-duration: 6s; 
+    
+  }
+  
